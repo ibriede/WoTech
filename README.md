@@ -14,7 +14,7 @@ My major projects
 2.Python AI tool
 3.My own social network
 
-'''java
+```java
 
   if (temperature <= 5){
       System.out.println("Wear super warm!");
@@ -25,4 +25,5 @@ My major projects
     else if (temperature > 15 && temperature <= 30){
       System.out.println("Wear normal!");
 
-      '''
+      ```
+
