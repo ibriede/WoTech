@@ -13,3 +13,16 @@ My major projects
 1.Java banking app
 2.Python AI tool
 3.My own social network
+
+'''java
+
+  if (temperature <= 5){
+      System.out.println("Wear super warm!");
+    }
+    else if (temperature > 5 && temperature <= 15){
+      System.out.println("Wear warm!");
+    }
+    else if (temperature > 15 && temperature <= 30){
+      System.out.println("Wear normal!");
+
+      '''
